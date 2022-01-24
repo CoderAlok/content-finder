@@ -9,6 +9,6 @@ class cities extends Controller
     //
 
     public function get_all(){
-        echo 'Gets all the cities';
+        echo 'Gets all the cities ';
     }
 }
